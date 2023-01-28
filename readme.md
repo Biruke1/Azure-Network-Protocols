@@ -1,10 +1,12 @@
-<p align="center">
-Static Network Interface
-<img src="https://i.imgur.com/PL5Lf4P.png" alt="Traffic Examination"/>
-</p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this tutorial, we setting up static  ip address. <br />
+
+<p align="center">
+Static Network Interface
+<img src="https://i.imgur.com/BJnw61g.png" alt="Traffic Examination"/>
+</p>
+
 
 
 <h2>Creating Active Directory</h2>
